@@ -14,16 +14,18 @@ DEFAULT_REQUEST_HEADERS = {
     'Accept-Language': 'en-US,en;q=0.9',
 }
 
-# Delay to prevent GitHub from blocking you
+# Delay between requests to avoid being blocked
 DOWNLOAD_DELAY = 1
 
 # Enable Feed export (XML output)
 FEEDS = {
-    'repos.xml': {
+    'C:/Users/User/github_scraper/repos.xml': {
         'format': 'xml',
         'encoding': 'utf8',
-        'fields': ['name', 'url', 'description', 'last_updated', 'languages', 'commits'],
+        'fields': ['name', 'url', 'about', 'last_updated', 'languages', 'commits'],
         'indent': 4,
-        "xml_declaration": True,
+        'xml_declaration': True,
     }
 }
+
+

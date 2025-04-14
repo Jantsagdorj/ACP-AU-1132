@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+</items><?xml version="1.0" encoding="utf-8"?>
+<items>
+</items><?xml version="1.0" encoding="utf-8"?>
+<items>
+</items><?xml version="1.0" encoding="utf-8"?>
+<items>
+</items><?xml version="1.0" encoding="utf-8"?>
+<items>
+</items><?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><URL>https://github.com/torvalds/pesconvert</URL><About>Brother PES file converter</About><Last Updated>None</Last Updated><Languages>None</Languages><Number of Commits>None</Number of Commits></item>
+<item><URL>https://github.com/torvalds/linux</URL><About>Linux kernel source tree</About><Last Updated>None</Last Updated><Languages>None</Languages><Number of Commits>None</Number of Commits></item>
+<item><URL>https://github.com/torvalds/uemacs</URL><About>Random version of microemacs with my private modificatons</About><Last Updated>None</Last Updated><Languages>None</Languages><Number of Commits>None</Number of Commits></item>
+<item><URL>https://github.com/torvalds/test-tlb</URL><About>Stupid memory latency and TLB tester</About><Last Updated>None</Last Updated><Languages>None</Languages><Number of Commits>None</Number of Commits></item>
+<item><URL>https://github.com/torvalds/1590A</URL><About>Random odd guitar pedal design in kicad</About><Last Updated>None</Last Updated><Languages>None</Languages><Number of Commits>None</Number of Commits></item>
+<item><URL>https://github.com/torvalds/libdc-for-dirk</URL><About>Only use for syncing with Dirk, don't use for anything else</About><Last Updated>2021-05-08T16:04:17Z</Last Updated><Languages>None</Languages><Number of Commits>None</Number of Commits></item>
+<item><URL>https://github.com/torvalds/libgit2</URL><About>A cross-platform, linkable library implementation of Git that you can use in your application.</About><Last Updated>None</Last Updated><Languages>None</Languages><Number of Commits>None</Number of Commits></item>
+<item><URL>https://github.com/torvalds/subsurface-for-dirk</URL><About>Do not use - the real upstream is Subsurface-divelog/subsurface</About><Last Updated>None</Last Updated><Languages>None</Languages><Number of Commits>None</Number of Commits></item>
+</items>
